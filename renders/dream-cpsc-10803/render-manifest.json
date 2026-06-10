@@ -1,0 +1,202 @@
+{
+  "record": {
+    "id": "cpsc-10803",
+    "provider": "cpsc",
+    "kind": "recall",
+    "title": "TOMY Recalls Boon NURSH 8 oz Reusable Baby Bottles Due to Choking Hazard; Sold at Walmart",
+    "recallDate": "2026-06-04",
+    "productName": "Boon NURSH 8 oz Reusable Baby Bottles",
+    "productType": "baby bottle",
+    "hazard": "Loose pieces of film-like plastic can pose a choking hazard to young children.",
+    "remedy": "Consumers should stop using the recalled baby bottles immediately and contact TOMY for the recall remedy.",
+    "affectedUnits": "About 40,000",
+    "sourceUrl": "https://www.cpsc.gov/Recalls/2026/TOMY-Recalls-Boon-NURSH-8-oz-Reusable-Baby-Bottles-Due-to-Choking-Hazard-Sold-at-Walmart",
+    "imageUrl": "https://www.cpsc.gov/s3fs-public/nursh-2.png",
+    "sourceName": "CPSC recall record",
+    "lifeMoment": "baby-registry",
+    "tags": [
+      "baby bottle",
+      "choking",
+      "feeding"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "scene-001-product",
+      "kind": "product",
+      "eyebrow": "CPSC recall - Jun 4, 2026",
+      "headline": "Before this enters the nursery",
+      "detail": "Boon NURSH 8 oz Reusable Baby Bottles",
+      "captionText": "Check the official recall record before using Boon NURSH 8 oz Reusable Baby Bottles.",
+      "voiceoverText": "Before this enters the nursery, check the official recall record for Boon NURSH 8 oz Reusable Baby Bottles.",
+      "bullets": [
+        "baby bottle",
+        "About 40,000 affected"
+      ],
+      "durationSeconds": 5.8
+    },
+    {
+      "id": "scene-002-hazard",
+      "kind": "hazard",
+      "eyebrow": "Listed hazard",
+      "headline": "The concern is specific",
+      "detail": "Can pose a choking hazard to young children.",
+      "captionText": "Listed hazard: Can pose a choking hazard to young children.",
+      "voiceoverText": "The listed hazard says: Can pose a choking hazard to young children.",
+      "bullets": [
+        "Do not guess from a photo",
+        "Match the official notice"
+      ],
+      "durationSeconds": 5.8
+    },
+    {
+      "id": "scene-003-match",
+      "kind": "match",
+      "eyebrow": "30-second check",
+      "headline": "Match the product before you act",
+      "detail": "Use the recall page to compare the product name, label, model details, and seller listing.",
+      "captionText": "Match the product name and label before you assume the notice applies.",
+      "voiceoverText": "Match the product name and label before you assume the notice applies to your item.",
+      "bullets": [
+        "Product name",
+        "Label or model",
+        "Seller listing"
+      ],
+      "durationSeconds": 5.8
+    },
+    {
+      "id": "scene-004-remedy",
+      "kind": "remedy",
+      "eyebrow": "If it matches",
+      "headline": "Pause use and follow the remedy",
+      "detail": "Stop using it and contact TOMY for the recall remedy.",
+      "captionText": "If it matches: Stop using it and contact TOMY for the recall remedy.",
+      "voiceoverText": "If your product matches, pause use and follow the remedy listed on the official recall page.",
+      "bullets": [
+        "Save the recall page",
+        "Contact the firm",
+        "Keep proof of purchase if available"
+      ],
+      "durationSeconds": 5.8
+    },
+    {
+      "id": "scene-005-source",
+      "kind": "source",
+      "eyebrow": "Source receipt",
+      "headline": "No rumor. No panic. Just the record.",
+      "detail": "CPSC recall record at cpsc.gov",
+      "captionText": "Save this sourced check before you buy, borrow, or use baby gear.",
+      "voiceoverText": "Source: CPSC recall record. Save this check before you buy, borrow, or use baby gear.",
+      "bullets": [
+        "cpsc.gov",
+        "Jun 4, 2026",
+        "Follow for sourced recall checks"
+      ],
+      "durationSeconds": 5.8
+    }
+  ],
+  "productImage": {
+    "sourceUrl": "https://www.cpsc.gov/s3fs-public/nursh-2.png",
+    "localPath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/assets/product-cpsc-10803.png",
+    "mimeType": "image/png"
+  },
+  "audio": {
+    "voiceoverPath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/audio/voiceover.aiff",
+    "voiceoverProvider": "macos-say",
+    "bedProvider": "ffmpeg-sine-bed"
+  },
+  "plan": {
+    "packageId": "dream-cpsc-10803",
+    "recordId": "cpsc-10803",
+    "sourceUrl": "https://www.cpsc.gov/Recalls/2026/TOMY-Recalls-Boon-NURSH-8-oz-Reusable-Baby-Bottles-Due-to-Choking-Hazard-Sold-at-Walmart",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "aspectRatio": "9:16",
+    "durationSeconds": 29,
+    "outputPath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/dream-cpsc-10803.mp4",
+    "frameEvidencePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/001-scene-001-product.png",
+    "manifestPath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/render-manifest.json",
+    "voiceoverPath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/audio/voiceover.aiff",
+    "frames": [
+      {
+        "sceneId": "scene-001-product",
+        "startSeconds": 0,
+        "durationSeconds": 5.8,
+        "framePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/001-scene-001-product.png",
+        "captionText": "Check the official recall record before using Boon NURSH 8 oz Reusable Baby Bottles.",
+        "captionSafeZone": {
+          "x": 72,
+          "y": 1498,
+          "width": 936,
+          "height": 250
+        }
+      },
+      {
+        "sceneId": "scene-002-hazard",
+        "startSeconds": 5.8,
+        "durationSeconds": 5.8,
+        "framePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/002-scene-002-hazard.png",
+        "captionText": "Listed hazard: Can pose a choking hazard to young children.",
+        "captionSafeZone": {
+          "x": 72,
+          "y": 1498,
+          "width": 936,
+          "height": 250
+        }
+      },
+      {
+        "sceneId": "scene-003-match",
+        "startSeconds": 11.6,
+        "durationSeconds": 5.8,
+        "framePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/003-scene-003-match.png",
+        "captionText": "Match the product name and label before you assume the notice applies.",
+        "captionSafeZone": {
+          "x": 72,
+          "y": 1498,
+          "width": 936,
+          "height": 250
+        }
+      },
+      {
+        "sceneId": "scene-004-remedy",
+        "startSeconds": 17.4,
+        "durationSeconds": 5.8,
+        "framePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/004-scene-004-remedy.png",
+        "captionText": "If it matches: Stop using it and contact TOMY for the recall remedy.",
+        "captionSafeZone": {
+          "x": 72,
+          "y": 1498,
+          "width": 936,
+          "height": 250
+        }
+      },
+      {
+        "sceneId": "scene-005-source",
+        "startSeconds": 23.2,
+        "durationSeconds": 5.8,
+        "framePath": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/frames/005-scene-005-source.png",
+        "captionText": "Save this sourced check before you buy, borrow, or use baby gear.",
+        "captionSafeZone": {
+          "x": 72,
+          "y": 1498,
+          "width": 936,
+          "height": 250
+        }
+      }
+    ]
+  },
+  "probe": {
+    "path": "/Users/zackgrizz/Documents/GStack/apps/faceless-video-factory/runtime/recall-radar-dream-renders/dream-cpsc-10803/dream-cpsc-10803.mp4",
+    "exists": true,
+    "width": 1080,
+    "height": 1920,
+    "durationSeconds": 29,
+    "videoCodec": "h264",
+    "audioCodec": "aac"
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
